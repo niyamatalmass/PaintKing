@@ -1,0 +1,26 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Paint King</string>
+    <!--This is the label for buy button. This should not exceed 7 characters-->
+    <string name="buy">Buy</string>
+    <string name="purchase_message">Order Received: <xliff:g id="date">%1$s</xliff:g></string>
+
+    <string name="black">Black</string>
+    <string name="blue">Blue</string>
+    <string name="gray">Gray</string>
+    <string name="green">Green</string>
+    <string name="orange">Orange</string>
+    <string name="purple">Purple</string>
+    <string name="red">Red</string>
+    <string name="white">White</string>
+
+    <string-array name="colors">
+        <item>@string/black</item>
+        <item>@string/blue</item>
+        <item>@string/gray</item>
+        <item>@string/green</item>
+        <item>@string/orange</item>
+        <item>@string/purple</item>
+        <item>@string/red</item>
+        <item>@string/white</item>
+    </string-array>
+</resources>

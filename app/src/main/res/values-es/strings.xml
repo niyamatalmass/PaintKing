@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rey de Pintura</string>
+    <string name="buy">Compra</string>
+    <string name="purchase_message">Orden Recibida: %1$s</string>
+
+    <string name="black">Negro</string>
+    <string name="blue">Azul</string>
+    <string name="gray">Gris</string>
+    <string name="green">Verde</string>
+    <string name="orange">Anaranjado</string>
+    <string name="purple">Morado</string>
+    <string name="red">Rojo</string>
+    <string name="white">Blanco</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ملك الطلاء</string>
+    <string name="buy">يشترى</string>
+    <string name="purchase_message">%1$sتاريخ التسليم المتوقع</string>
+
+    <string name="black">أَسْوَد</string>
+    <string name="blue">أَزْرَق</string>
+    <string name="gray">رَمَادِي</string>
+    <string name="green">أَخْضَر</string>
+    <string name="orange">بُرْتُقَالِي</string>
+    <string name="purple">بَنَفْسَجِي</string>
+    <string name="red">أَحْمَر</string>
+    <string name="white">أَبْيَض</string>
+</resources>
